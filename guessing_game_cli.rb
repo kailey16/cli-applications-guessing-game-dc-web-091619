@@ -1,2 +1,2 @@
 def run_guessing_game
-  number = 
+  number = rand(6) + 1 
